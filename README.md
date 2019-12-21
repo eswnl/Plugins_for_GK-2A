@@ -20,5 +20,4 @@ This plug-in extracts the time information from the file name and stamps it on t
 ## Auto adjust - Tries to emphasize the land
 This plug-in increases contrast between land and sea.
 
-![AutoAdjustTestBefore](AutoAdjustTestBefore.png)
-![AutoAdjustTestAfter](AutoAdjustTestAfter.png)
+![AutoAdjustTest](AutoAdjustTest.png) ![AutoAdjustTest](AutoAdjustTest.png)
