@@ -29,3 +29,5 @@ Using the IR enhancement tool developed by Sam (https://github.com/sam210723/xri
 In GIMP, open all the IR images as layers. Filter to just show jpeg files in the folder (it will be easier to select all the IR jpg)
 
 ![ShowOnlyJPEGS](SelectOnlyjpeg.png)
+
+By selecting the "Apply IR enhancement to layers for animation", the plugin will apply all the IR enhancement png transparencies on all the opened layers. The plugin will automatically search the current folder for the png transparencies.
