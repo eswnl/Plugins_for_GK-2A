@@ -14,6 +14,4 @@ GK2A_underlay.py | Insert land and sea colours
 
 ## Adding date and time
 This plug-in extracts the time information from the file name and stamps it on the image/layer.
-![No Time Stamp](TimeStampBefore.png)
-Application of the time information
-![With Time Stamp](TimeStampAfter.png)
+![Time Stamp](TimeStamp.png)
