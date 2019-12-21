@@ -14,4 +14,10 @@ GK2A_underlay.py | Apply underlay to layers for animation | Path to underlay fil
 
 ## Adding date and time
 This plug-in extracts the time information from the file name and stamps it on the image/layer.
+
 ![Time Stamp](TimeStamp.png)
+
+## Auto adjust - Tries to emphasize the land
+This plug-in increases contrast between land and sea.
+![Time Stamp](AutoAdjustBefore.png)
+![Time Stamp](AutoAdjustAfter.png)
