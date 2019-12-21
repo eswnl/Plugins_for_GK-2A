@@ -11,3 +11,7 @@ GK2A_Auto_Adjust.py | Automatic contrast correction on each layer
 GK2A_enhancement_overlay.py | After generating the IR enhancement images, add to each layer.
 GK2A_overlay.py | Add overlay eg. grid, long/lat lines to each layer
 GK2A_underlay.py | Insert land and sea colours
+
+## Adding date and time
+This plug-in extracts the time information from the file name and stamps it on the image/layer.
+![GitHub Logo](logo.png)
