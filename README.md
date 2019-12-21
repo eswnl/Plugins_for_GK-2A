@@ -23,4 +23,4 @@ This plug-in increases contrast between land and sea.
 ![AutoAdjustTest](AutoAdjustTest.png)
 ## Applying the GK-2A IR enhancement overlay
 Using the IR enhancement tool developed by Sam (https://github.com/sam210723/xrit-rx), you can create the corresponding IR enhancement for the IR image. Make sure you set the option to transparent when creating the IR enhancement images and allow it to generate all the IR enhancement for every image in your output folder. Like this:
-![EnhancementImages](ShowingEnhancementFilegs.png)
+![EnhancementImages](ShowingEnhancementFiles.png)
