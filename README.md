@@ -13,7 +13,7 @@ GK2A_overlay.py | Apply overlay to layers for animation | Path to overlay file (
 GK2A_underlay.py | Apply underlay to layers for animation | Path to underlay file (bitmap image)
 
 ## Adding date and time
-This plug-in extracts the time information from the file name and stamps it on the image/layer.
+This plug-in extracts the time information from the file name and stamps it on the image/layer. Open all the IR images as layers (select "Open as layers" from the File menu)
 
 ![Time Stamp](TestTimeStamp.gif)
 
