@@ -26,3 +26,6 @@ Using the IR enhancement tool developed by Sam (https://github.com/sam210723/xri
 
 ![EnhancementImages](ShowingEnhancementFiles.png)
 
+In GIMP, open the IR jpegs only. Filter to just show jpeg files in the folder (it will be easier to select the jpg)
+
+![ShowOnlyJPEGS](SelectOnlyjpeg.png)
