@@ -36,5 +36,5 @@ By selecting the "Apply IR enhancement to layers for animation", the plugin will
 
 Applies overlay such as longitude/latitude grid/outline maps to each layer.
 
-![OverlayTest](OverlayTest.png)
+![OverlayTest](overlayTest.png)
 
