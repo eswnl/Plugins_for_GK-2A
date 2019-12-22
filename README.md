@@ -47,7 +47,7 @@ You can create own bitmaps as well.
 
 ![UnderlayTest](UnderlayTest.png)
 
-## Installation - 
+## Installation
 
 Plugin files are not uploaded yet. Please be patient.
 
