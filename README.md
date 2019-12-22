@@ -48,7 +48,7 @@ You can create own bitmaps as well.
 ![UnderlayTest](UnderlayTest.png)
 
 ## Installation
-
+*Warning - plugin files are not uploaded yet.*
 Copy the plug-ins (.py) into the GIMP 2\lib\gimp\2.0\plug-ins or similar folder.
 
 ![PlugIn List](ShowingPlugIns.png)
