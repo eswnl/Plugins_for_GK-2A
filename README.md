@@ -47,10 +47,8 @@ You can create own bitmaps as well.
 
 ![UnderlayTest](UnderlayTest.png)
 
-## Installation - Warning: plugin files are not uploaded yet.
+## Installation - 
 
-Copy the plug-ins (.py) into the GIMP 2\lib\gimp\2.0\plug-ins or similar folder.
+Plugin files are not uploaded yet. Please be patient.
 
-![PlugIn List](ShowingPlugIns.png)
 
-When the plugins are installed, they can be selected in the GIMP -> Layer menus
