@@ -43,3 +43,9 @@ Applies overlay such as longitude/latitude grid/outline maps to each layer.
 Create artificial colour maps to apply land and sea colours. You can create own bitmaps as well.
 
 ![UnderlayTest](UnderlayTest.png)
+
+## Installation
+
+Install the plug-ins (.py) into the GIMP 2\lib\gimp\2.0\plug-ins or similar folder.
+
+![PlugIn List](ShowingPlugIns.png)
