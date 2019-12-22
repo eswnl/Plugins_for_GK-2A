@@ -3,6 +3,8 @@ Apply overlays and underlays automatically to GK-2A IR images in GIMP.
 
 GK-2A created by the KMA Meterological Organisation is a geostationary satellite transmitting both LRIT and HRIT. The aim of these plugins is to automatically add overlays and underlays to the (now only available) monochrome IR images when they are opened as layers. To use these plug-ins require the host software GIMP editor to be installed. 
 
+Once the layers have been processed, use GIMP animation feature to create your animation.
+
 ## Options
 Plugin | In GIMP | Input |
 ------------ | ------------- | ------------- |
