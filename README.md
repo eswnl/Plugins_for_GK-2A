@@ -49,3 +49,5 @@ Create artificial colour maps to apply land and sea colours. You can create own 
 Install the plug-ins (.py) into the GIMP 2\lib\gimp\2.0\plug-ins or similar folder.
 
 ![PlugIn List](ShowingPlugIns.png)
+
+When the plugins are installed, they can be selected in the GIMP -> Layer menus
