@@ -39,7 +39,7 @@ By selecting the "Apply IR enhancement to layers for animation", the plugin will
 Applies overlay such as longitude/latitude grid/outline maps to each layer. It will ask you the overlay gif file to use.
 
 ![OverlayTest](overlayTest.png)
-![OverlayAnimationTest](Hagibis.gif)
+
 
 ## Applying underlays
 
@@ -47,6 +47,9 @@ Create artificial colour maps to apply land and sea colours. It will ask you the
 You can create own bitmaps as well.
 
 ![UnderlayTest](UnderlayTest.png)
+
+Animation of Hagibis.
+![OverlayAnimationTest](Hagibis.gif)
 
 ## Installation
 
