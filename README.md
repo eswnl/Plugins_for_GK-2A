@@ -34,13 +34,14 @@ By selecting the "Apply IR enhancement to layers for animation", the plugin will
 
 ## Applying overlays
 
-Applies overlay such as longitude/latitude grid/outline maps to each layer.
+Applies overlay such as longitude/latitude grid/outline maps to each layer. It will ask you the overlay gif file to use.
 
 ![OverlayTest](overlayTest.png)
 
 ## Applying underlays
 
-Create artificial colour maps to apply land and sea colours. You can create own bitmaps as well.
+Create artificial colour maps to apply land and sea colours. It will ask you the underlay bitmap file to use. 
+You can create own bitmaps as well.
 
 ![UnderlayTest](UnderlayTest.png)
 
