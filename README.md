@@ -38,3 +38,8 @@ Applies overlay such as longitude/latitude grid/outline maps to each layer.
 
 ![OverlayTest](overlayTest.png)
 
+## Applying underlays
+
+Create artificial colour maps to apply land and sea colours. You can create own bitmaps as well.
+
+![UnderlayTest](UnderlayTest.png)
