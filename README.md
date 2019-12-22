@@ -31,3 +31,10 @@ In GIMP, open all the IR images as layers. Filter to just show jpeg files in the
 By selecting the "Apply IR enhancement to layers for animation", the plugin will apply all the IR enhancement png transparencies on all the opened layers. The plugin will automatically search the current folder for the png transparencies.
 
 ![EnhancementImageAnimation](Animation3.gif)
+
+## Applying overlays
+
+Applies overlay such as longitude/latitude grid/outline maps to each layer.
+
+![OverlayTest](OverlayTest.png)
+
