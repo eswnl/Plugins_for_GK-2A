@@ -65,4 +65,4 @@ GIMP 2\lib\gimp\2.0\plug-ins
 ```
 If successful, the GK-2A menus should appear in the GIMP's Layer menu
 
-
+![GK-2A menus](SampleImages/GK-2A menus 2.png)
