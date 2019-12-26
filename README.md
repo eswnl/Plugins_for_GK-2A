@@ -17,28 +17,28 @@ GK2A_underlay.py | Apply underlay to layers for animation | Path to underlay fil
 ## Adding date and time
 This plug-in extracts the time information from the file name and stamps it on the image/layer. Open all the IR images as layers (select "Open as layers" from the File menu)
 
-![Time Stamp](TestTimeStamp.gif)
+![Time Stamp](SampleImages/TestTimeStamp.gif)
 
 ## Auto adjust - Tries to emphasize the land
 This plug-in increases contrast between land and sea.
 
-![AutoAdjustTest](AutoAdjustTest.png)
+![AutoAdjustTest](SampleImages/AutoAdjustTest.png)
 ## Applying the GK-2A IR enhancement overlay
 Using the IR enhancement tool developed by Sam (https://github.com/sam210723/xrit-rx), you can create the corresponding IR enhancement for the IR image. Make sure you set the option to transparent when creating the IR enhancement images and allow it to generate all the IR enhancement for every image in your output folder. Like this:
 
-![EnhancementImages](ShowingEnhancementFiles.png)
+![EnhancementImages](SampleImages/ShowingEnhancementFiles.png)
 
 In GIMP, open the IR jpeg images as layers. Use the filter to just show jpeg files (it will be easier to select just the jpg)
 
 By selecting the "Apply IR enhancement to layers for animation", the plugin will apply all the IR enhancement png transparencies on all the layers. The plugin will automatically search the current folder for the png transparencies that you created.
 
-![EnhancementImageAnimation](Animation3.gif)
+![EnhancementImageAnimation](SampleImages/Animation3.gif)
 
 ## Applying overlays
 
 Applies overlay such as longitude/latitude grid/outline maps to each layer. It will ask you the overlay gif file to use.
 
-![OverlayTest](overlayTest.png)
+![OverlayTest](SampleImages/overlayTest.png)
 
 
 ## Applying underlays
@@ -46,11 +46,11 @@ Applies overlay such as longitude/latitude grid/outline maps to each layer. It w
 Create artificial colour maps to apply land and sea colours. It will ask you the underlay bitmap file to use. 
 You can create own bitmaps as well.
 
-![UnderlayTest](UnderlayTest.png)
+![UnderlayTest](SampleImages/UnderlayTest.png)
 
 Animation of Hagibis.
 
-![OverlayAnimationTest](Hagibis.gif)
+![OverlayAnimationTest](SampleImages/Hagibis.gif)
 
 ## Installation
 
