@@ -24,11 +24,16 @@ This plug-in increases contrast between land and sea.
 
 ![AutoAdjustTest](SampleImages/AutoAdjustTest.png)
 ## Applying the GK-2A IR enhancement overlay
-Using the IR enhancement tool developed by Sam (https://github.com/sam210723/xrit-rx), you can create the corresponding IR enhancement for the IR image. Make sure you set the option to transparent when creating the IR enhancement images and allow it to generate all the IR enhancement for every image in your output folder. Like this:
+Using the IR enhancement tool developed by Sam (https://github.com/sam210723/xrit-rx), you can create the corresponding IR enhancement for the IR image. Make sure you set the option to transparent when creating the IR enhancement images and allow it to generate all the IR enhancement for every image in your output folder.
 
+The command to run:
+```
+python enhance-ir.py "Folder" -t
+```
+Then your folder should contain the enhancement files.
 ![EnhancementImages](SampleImages/ShowingEnhancementFiles.png)
 
-In GIMP, open the IR jpeg images as layers. Use the filter to just show jpeg files (it will be easier to select just the jpg)
+In GIMP, open just the IR jpeg images as layers. Use the filter to just show jpeg files (it will be easier to select just the jpg)
 
 By selecting the "Apply IR enhancement to layers for animation", the plugin will apply all the IR enhancement png transparencies on all the layers. The plugin will automatically search the current folder for the png transparencies that you created.
 
