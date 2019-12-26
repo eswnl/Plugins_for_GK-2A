@@ -59,7 +59,7 @@ Animation of Hagibis.
 
 ## Installation
 
-Copy the plugin files to the GIMP plugin directory. For my copy of GIMP, it is:
+Copy the plugin files (the .py files) to the GIMP plugin directory. For my copy of GIMP, it is:
 ```
 GIMP 2\lib\gimp\2.0\plug-ins
 ```
