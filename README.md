@@ -11,8 +11,8 @@ Plugin | In GIMP | Input |
 GK2A_Date and Time.py | Apply date and time to layers for animation | None 
 GK2A_Auto_Adjust.py | auto adjust layers for animation | None
 GK2A_enhancement_overlay.py | Apply IR enhancement to layers for animation | None
-GK2A_overlay.py | Apply overlay to layers for animation | Path to overlay file (.gif)
-GK2A_underlay.py | Apply underlay to layers for animation | Path to underlay file (bitmap image)
+GK2A_overlay.py | Apply overlay to layers for animation | Path to overlay file (.gif) - see folder for samples
+GK2A_underlay.py | Apply underlay to layers for animation | Path to underlay file (bitmap image) - see folder for samples
 
 ## Adding date and time
 This plug-in extracts the time information from the file name and stamps it on the image/layer. Open all the IR images as layers (select "Open as layers" from the File menu)
